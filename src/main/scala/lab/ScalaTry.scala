@@ -4,7 +4,7 @@
  *   Gerardo Jaramillo (https://gerardojaramillo.dev)
  */
 
-package example
+package lab
 
 import scala.util.Try
 

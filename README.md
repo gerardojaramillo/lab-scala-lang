@@ -1,3 +1,3 @@
 # Lab-Scala-Lang
 
-Just for fun.
+Have a clean idea how the objects in scala works & for fun.
